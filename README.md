@@ -1,7 +1,7 @@
 Hi 👋 My name is Warithar Kamvilai 
 ==================================
 
-Web developer and Designer 
+Senior Frontend developer and Designer 
 --------------------------  
 
 I am Experienced Frontend Web Developer with a demonstrated history of working in the computer networking industry. Skilled in PHP, UIKit, jQuery, CodeIgniter, and Bootstrap. Strong engineering professional with a Bachelor of Business Administration - BBA focused in Computer and Information Systems Security/Information Assurance from Burapha University.  
