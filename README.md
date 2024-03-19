@@ -7,7 +7,7 @@ Senior Frontend developer and Designer
 I am Experienced Frontend Web Developer with a demonstrated history of working in the computer networking industry. Skilled in PHP, UIKit, jQuery, CodeIgniter, and Bootstrap. Strong engineering professional with a Bachelor of Business Administration - BBA focused in Computer and Information Systems Security/Information Assurance from Burapha University.  
 
 * 🌍  I'm based in Thailand 
-* 🖥️  See my portfolio at [My Portfolio](http://warithar-wk.github.io/resume/) 
+* 🖥️  See my portfolio at [My Portfolio](https://portfolio.warithar.dev)) 
 * ✉️  You can contact me at [warithar.wk@outlook.co.th](mailto:warithar.wk@outlook.co.th) 
 * 🚀  I'm currently working on [Roots](http://www.rootsplatform.com)
 
