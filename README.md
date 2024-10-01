@@ -9,7 +9,7 @@ I am Experienced Frontend Web Developer with a demonstrated history of working i
 * 🌍  I'm based in Thailand 
 * 🖥️  See my portfolio at [My Portfolio](https://portfolio.warithar.dev)) 
 * ✉️  You can contact me at [warithar.wk@outlook.co.th](mailto:warithar.wk@outlook.co.th) 
-* 🚀  I'm currently working on [Roots](http://www.rootsplatform.com)
+* 🚀  I'm currently working on NIO ACHIEVERS COMPANY LIMITED  
 
 <a href="https://www.twitter.com/DevRxmboo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/DevRxmboo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
